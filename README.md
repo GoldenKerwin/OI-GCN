@@ -12,9 +12,10 @@ We test the codes in the following environments, other versions may also be comp
 
 ## Get Started
 ```
-bash main.sh
+$ bash main.sh
 
 ```
+This repo is based on [BiGCN](https://github.com/TianBian95/BiGCN).Thanks for their wonderful works!
 
 ## Citation
 
