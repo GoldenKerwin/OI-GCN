@@ -1,4 +1,4 @@
-# Different or Similar Opinions in Rumor Propagation: Graph Neural Network Enhanced by Opinion Interaction Representation Learning for Rumor Detection on Social Media
+# Different or Consistent? Graph Neural Network Enhanced by Opinion Interaction Representation Learning for Rumor Detection on Social Media
 
 ## Introduction
 
